@@ -1,0 +1,22 @@
+{
+  "name": "The Weather Game",
+  "short_name": "Weather Game",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F9F6F0",
+  "theme_color": "#2B6CB0",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluent/192/beach.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://img.icons8.com/fluent/512/beach.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
